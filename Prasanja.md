@@ -5,7 +5,7 @@
 
 Трудот кој го избрав е *[Rapid T1 quantification from high resolution 3D data with model‐based reconstruction](https://onlinelibrary.wiley.com/doi/full/10.1002/mrm.27502?fbclid=IwAR2wjkoAv3OmFYvUFc3tpKg9p8MRdqK6LcwkyVgrKrs21-ynG2zAigHXWto)* од прв автор Oliver Maier, последен автор Rudolf Stollberger.
 
-Бидејќи прв пат цитирам труд до сега, успеав да го најдам следниот линк кој од обично doi на труд генерира citation со IEEE стил.  ([линк до генератор](https://www.citationmachine.net/bibliographies/7f3b2e7e-3b28-4157-9984-263aaa49c8fd)<br> 
+Бидејќи прв пат цитирам труд до сега, успеав да го најдам следниот линк кој од обично doi на труд генерира citation со IEEE стил.  ([линк до генератор](https://www.citationmachine.net/bibliographies/7f3b2e7e-3b28-4157-9984-263aaa49c8fd)) <br> 
 
 
 <i> O. Maier, J. Schoormans, M. Schloegl, G. J. Strijkers, A. Lesch, T. Benkert, T. Block, B. F. Coolen, K. Bredies, and R. Stollberger, “Rapid T 1 quantification from high resolution 3D data with model‐based reconstruction,” Magnetic Resonance in Medicine, vol. 81, no. 3, pp. 2072–2089, 2018.</i>
